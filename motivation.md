@@ -13,4 +13,6 @@ One of my most favourites that he shares is around the four major lessons in lif
 - [Life Is Like The Changing Seasons (Part 1) - Powerful Motivation Video](https://youtu.be/QU333LmZ4CE), Jim Rohn, YouTube
 
 
-Inspiration can also at times be found in some of my favourite [quotes](quotes.md)
+Inspiration can also at times be found in some of my favourite [quotes](quotes.md).
+
+For the times that it is difficult to replace bad behaviours with good behaviours and habits, try the techniques summarized in [this video](https://youtu.be/PZ7lDrwYdZc) for the book [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
