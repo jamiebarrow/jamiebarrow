@@ -13,15 +13,15 @@ This quote is sometimes attributed to Aristotle. The version I first saw was the
 > Don't wish it was easier, wish you were better.<br>
 > Don't wish for less problems, wish for more skills.<br>
 > Don't wish for less challenge, wish for more wisdom.<br>
-> -- <cite>Jim Rohn</cite>[2]
+> -- <cite>[Jim Rohn][2]</cite>
 
 > The winters won't change, but you can.<br>
 > And that's how life changes for you<br>
-> -- <cite>Jim Rohn</cite>[2]
+> -- <cite>[Jim Rohn][2]</cite>
 
 > Success is the product of daily habits -<br>
 > not once-in-a-lifetime transformations<br>
-> -- <cite>James Clear</cite>[3]
+> -- <cite>[James Clear][3]</cite>
 
 [1]: https://en.wikiquote.org/wiki/Patience
 [2]: https://www.youtube.com/watch?v=QU333LmZ4CE
