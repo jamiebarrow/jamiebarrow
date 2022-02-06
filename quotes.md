@@ -10,4 +10,14 @@ This quote is sometimes attributed to Aristotle. The version I first saw was the
 > Patience is bitter, but its fruit is sweet.<br>
 > -- <cite>[Jean-Jacques Rousseau][1]</cite>
 
+> Don't wish it was easier, wish you were better.
+> Don't wish for less problems, wish for more skills.
+> Don't wish for less challenge, wish for more wisdom.
+> -- <cite>Jim Rohn</cite>[2]
+
+> The winters won't change, but you can.
+> And that's how life changes for you
+> -- <cite>Jim Rohn</cite>[2]
+
 [1]: https://en.wikiquote.org/wiki/Patience
+[2]: https://www.youtube.com/watch?v=QU333LmZ4CE
