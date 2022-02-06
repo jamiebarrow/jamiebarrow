@@ -1,5 +1,7 @@
 # Schedule
 
+_Update: 2022-02-06: I have not followed this schedule very well, nor reviewed it for quite a while. After watching a video on habits, I will try to focus more on building habits, than focusing on a specific schedule_
+
 I will try to be aware and concious of the [buckets of time](./time-buckets.md) in my life,
 and have the below schedule as a goal in order to live a balanced, purposeful and happy life.
 
