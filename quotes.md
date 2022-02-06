@@ -21,7 +21,7 @@ This quote is sometimes attributed to Aristotle. The version I first saw was the
 
 > Success is the product of daily habits -<br>
 > not once-in-a-lifetime transformations<br>
-> -- <cite>James Clear</cite>[2]
+> -- <cite>James Clear</cite>[3]
 
 [1]: https://en.wikiquote.org/wiki/Patience
 [2]: https://www.youtube.com/watch?v=QU333LmZ4CE
