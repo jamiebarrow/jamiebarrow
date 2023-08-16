@@ -9,6 +9,5 @@ Welcome to my Github space.
 :calendar:    [Time buckets](time-buckets.md)  
 :muscle:      [Motivation](motivation.md)  
 :scroll:      [Quotes](quotes.md)  
-:scroll:      [Training](quotes.md)  
 
 <!--- emoji list: https://gist.github.com/rxaviers/7360908 --->
