@@ -23,6 +23,19 @@ This quote is sometimes attributed to Aristotle. The version I first saw was the
 > not once-in-a-lifetime transformations<br>
 > -- <cite>[James Clear][3]</cite>
 
+> Quit, don't quit.<br>
+> Noodles, don't noodles.<br>
+> You are too concerned with what was and what will be.<br>
+> <br>
+> There's a saying:<br>
+> <br>
+> Yesterday is history,<br>
+> tomorrow is a mystery,<br>
+> but today is a gift,<br>
+> that is why it is called the present.<br>
+> -- <cite>[Master Oogway][4]</cite>
+
 [1]: https://en.wikiquote.org/wiki/Patience
 [2]: https://www.youtube.com/watch?v=QU333LmZ4CE
 [3]: https://youtu.be/PZ7lDrwYdZc?t=147
+[4]: https://youtu.be/G7fGCB4CFew
