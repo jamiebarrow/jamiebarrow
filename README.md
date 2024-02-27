@@ -9,5 +9,5 @@ Welcome to my Github space.
 :calendar:    [Time buckets](time-buckets.md)  
 :muscle:      [Motivation](motivation.md)  
 :scroll:      [Quotes](quotes.md)  
-
+:elephant:      [Mastodon](https://fosstodon.org/@jamiebarrow)  
 <!--- emoji list: https://gist.github.com/rxaviers/7360908 --->
