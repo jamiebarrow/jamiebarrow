@@ -12,6 +12,8 @@ His wisdom is also available on Audible:
 One of my most favourites that he shares is around the four major lessons in life to learn, and around the changing seasons of life:
 - [Life Is Like The Changing Seasons (Part 1) - Powerful Motivation Video](https://youtu.be/QU333LmZ4CE), Jim Rohn, YouTube
 
+Narrated by the man himself, Arnold Schwarzenegger, this audiobook was surprisingly a great listen, highly recommended:
+- [Life Is Like The Changing Seasons (Part 1) - Powerful Motivation Video](https://www.audible.com/pd/Be-Useful-Audiobook/B0C2HRWCWM), Arnold Schwarzenegger, Audible
 
 Inspiration can also at times be found in some of my favourite [quotes](quotes.md).
 
