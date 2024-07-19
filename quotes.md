@@ -37,9 +37,10 @@ This quote is sometimes attributed to Aristotle. The version I first saw was the
 
 > Stop starting.<br>
 > Start finishing.<br>
-> -- <cite>Author Unknown</cite>
+> -- <cite>Author Unknown, but credited to [David Allen][5] author of Getting Things Done</cite>
 
 [1]: https://en.wikiquote.org/wiki/Patience
 [2]: https://www.youtube.com/watch?v=QU333LmZ4CE
 [3]: https://youtu.be/PZ7lDrwYdZc?t=147
 [4]: https://youtu.be/G7fGCB4CFew
+[5]: https://gettingthingsdone.com
