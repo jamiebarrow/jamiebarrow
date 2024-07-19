@@ -35,6 +35,10 @@ This quote is sometimes attributed to Aristotle. The version I first saw was the
 > that is why it is called the present.<br>
 > -- <cite>[Master Oogway][4]</cite>
 
+> Stop starting.<br>
+> Start finishing.<br>
+> -- <cite>Author Unknown</cite>
+
 [1]: https://en.wikiquote.org/wiki/Patience
 [2]: https://www.youtube.com/watch?v=QU333LmZ4CE
 [3]: https://youtu.be/PZ7lDrwYdZc?t=147
