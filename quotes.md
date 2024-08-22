@@ -39,8 +39,15 @@ This quote is sometimes attributed to Aristotle. The version I first saw was the
 > Start finishing.<br>
 > -- <cite>Author Unknown, but credited to [David Allen][5] author of Getting Things Done</cite>
 
+> Success is not final.<br>
+> Failure is not fatal.<br>
+> It is the courage to continue that counts.<br>
+> -- <cite>Winston Churchill, though [possibly falsely attributed][6]</cite>
+
+
 [1]: https://en.wikiquote.org/wiki/Patience
 [2]: https://www.youtube.com/watch?v=QU333LmZ4CE
 [3]: https://youtu.be/PZ7lDrwYdZc?t=147
 [4]: https://youtu.be/G7fGCB4CFew
 [5]: https://gettingthingsdone.com
+[6]: https://winstonchurchill.org/resources/quotes/quotes-falsely-attributed/
