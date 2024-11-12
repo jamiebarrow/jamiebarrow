@@ -2,7 +2,7 @@
 
 Welcome to my Github space.
 
-:green_book:  [Blog](https://github.com/jamiebarrow/blog)  
+:green_book:  [Blog](https://github.com/jamiebarrow/area_blog)  
 :office:      [LinkedIn](https://www.linkedin.com/in/jamesbarrow1984)  
 :necktie:     [CV](https://jamie-barrow.wixsite.com/curriculum-vitae)  
 :calendar:    [Time buckets](time-buckets.md)  
