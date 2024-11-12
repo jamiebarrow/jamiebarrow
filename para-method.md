@@ -14,6 +14,7 @@ Some people also include an Inbox where everything is first collected before org
 - Areas
     - stores collections of related artifacts for a long-term or indefinite time period, such as areas in your life
     - e.g. Area: Finance
+    - I like to start out with a set based on my [Time Buckets](time-buckets.md)
 - Resources
     - items that are for reference for ongoing projects and areas
 - Archive
