@@ -3,7 +3,7 @@
 Welcome to my Github space.
 
 :green_book:  [Blog](https://github.com/jamiebarrow/area_blog)  
-:office:      [LinkedIn](https://www.linkedin.com/in/jamesbarrow1984)  
+:office:      [LinkedIn](https://www.linkedin.com/in/jamesbarrow1984) - [About](./linkedin-about.md)  
 :necktie:     [CV](https://jamie-barrow.wixsite.com/curriculum-vitae)  
 
 :butterfly:   [Bluesky](https://bsky.app/profile/jamiebarrow.dev)  
