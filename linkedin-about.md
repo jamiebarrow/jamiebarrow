@@ -13,7 +13,7 @@ Actively seeking direct employment positions matching my current and/or transfer
 South African-born, British heritage, and Dutch citizen since 2024. Fluent in English and currently learning Dutch (working toward B2/Nt2 level).  
 
 # 📢 Recruiters
-CV: https://cv.jamiebarrow.dev/download.html
+CV: https://cv.jamiebarrow.dev/download.html<br>
 Please review my profile and CV for a match before reaching out. Send detailed job descriptions, including skills, responsibilities, and salary range. I prefer personalized messages, templated messages are likely to be ignored.
 
 # 🚀 Let's Connect!  
