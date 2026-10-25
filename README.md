@@ -2,17 +2,19 @@
 
 Welcome to my Github space.
 
-:green_book:  [Blog](https://github.com/jamiebarrow/area_blog)  
+:green_book:  [Blog](https://github.com/jamiebarrow/area_blog) - [jamiebarrow.dev](https://jamiebarrow.dev)  
 :office:      [LinkedIn](https://www.linkedin.com/in/jamesbarrow1984) - [About](./linkedin-about.md)  
 :necktie:     [CV](https://jamie-barrow.wixsite.com/curriculum-vitae)  
 
+:books:       [Blogspot](https://jamiebarrow.blogspot.com)  
 :butterfly:   [Bluesky](https://bsky.app/profile/jamiebarrow.dev)  
-:anchor:      [KubeCraft](https://www.skool.com/kubecraft/about?ref=d7233c0e53d348578ae81d5972a773da)  
+:bust_in_silhouette: [Gravatar](https://gravatar.com/jamiebarrow1984)  
+:elephant:    [Mastodon](https://fosstodon.org/@jamiebarrow)  
+:question:    [StackOverflow](https://stackoverflow.com/users/222090/jamiebarrow)  
+:bird:        [Twitter/X](https://x.com/jamiebarrow)  
 
 :calendar:    [Time buckets](time-buckets.md)  
 :memo:        [PARA Method](para-method.md)  
 :muscle:      [Motivation](motivation.md)  
 :scroll:      [Quotes](quotes.md)  
-<!---:elephant:    [Mastodon](https://fosstodon.org/@jamiebarrow)  --->
-<!---:books:  [Training](https://github.com/jamiebarrow/training)  --->
 <!--- emoji list: https://gist.github.com/rxaviers/7360908 --->
